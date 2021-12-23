@@ -5,6 +5,12 @@ https://amelia.chat/
 
 This is an unofficial librrary. Amelia Chat has no partnership with Sendbird. This library is for your personal use. Include in your Javascript projects and perform the same tasks you do from your Desk Dashboard. 
 
+## Install
+
+```
+npm i amelia-sendbird-desk-agent
+```
+
 Some features include:
 
 * Login to Dashboard
